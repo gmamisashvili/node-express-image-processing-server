@@ -11,5 +11,6 @@ module.exports = {
     arraysInObjects: true,
     allowArrowFunctions: true,
     'object-curly-spacing': [2, 'always'],
+    indent: ['error', 2],
   },
 };
